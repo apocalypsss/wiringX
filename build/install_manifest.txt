@@ -1,7 +1,0 @@
-/usr/local/lib/libwiringX.so
-/usr/local/lib/libwiringX.a
-/usr/local/include/wiringX.h
-/usr/local/sbin/wiringx-blink
-/usr/local/sbin/wiringx-interrupt
-/usr/local/sbin/wiringx-i2c-spi
-/usr/local/sbin/wiringx-read

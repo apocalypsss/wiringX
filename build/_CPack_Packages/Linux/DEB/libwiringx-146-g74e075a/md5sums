@@ -1,7 +1,0 @@
-5d6cb27e793cb56bd4f66e8b2f66e082  usr/local/include/wiringX.h
-17bf8bac6167c71c7cf2a6f2a447f519  usr/local/sbin/wiringx-i2c-spi
-d5a3ce49c39bd5c7d940febce4420e3d  usr/local/sbin/wiringx-interrupt
-bad7c58809e020b6d274814776c42d1c  usr/local/sbin/wiringx-blink
-7ed1972c2d255362867f5468eb3ef178  usr/local/sbin/wiringx-read
-2d7618b6bb41b3bf5702d2858458719a  usr/local/lib/libwiringX.so
-6eb1728f254562021570abd226d265a9  usr/local/lib/libwiringX.a

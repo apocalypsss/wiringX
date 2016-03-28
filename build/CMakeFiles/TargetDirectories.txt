@@ -1,8 +1,0 @@
-/root/wiringX/build/CMakeFiles/sources.dir
-/root/wiringX/build/CMakeFiles/uninstall.dir
-/root/wiringX/build/CMakeFiles/wiringx-blink.dir
-/root/wiringX/build/CMakeFiles/wiringx-i2c-spi.dir
-/root/wiringX/build/CMakeFiles/wiringx-interrupt.dir
-/root/wiringX/build/CMakeFiles/wiringx-read.dir
-/root/wiringX/build/CMakeFiles/wiringx_shared.dir
-/root/wiringX/build/CMakeFiles/wiringx_static.dir

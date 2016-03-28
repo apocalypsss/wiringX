@@ -1,9 +1,0 @@
-Package: libwiringx
-Version: 1.0-146-g74e075a
-Section: devel
-Priority: optional
-Architecture: armhf
-Installed-Size: 208
-Maintainer: CurlyMo <info@pilight.org>
-Description: Cross-platform GPIO Interface
-
