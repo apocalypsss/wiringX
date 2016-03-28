@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG   -Wl,-rpath=/usr/local/lib/,-rpath=/usr/lib/,-rpath=/lib/ CMakeFiles/wiringx-i2c-spi.dir/examples/i2c_spi.c.o  -o wiringx-i2c-spi -rdynamic libwiringX.so 

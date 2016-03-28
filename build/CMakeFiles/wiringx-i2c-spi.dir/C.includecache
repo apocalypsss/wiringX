@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/wiringX.h
+errno.h
+-
+syslog.h
+-
+
+/root/wiringX/examples/i2c_spi.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+stdint.h
+-
+wiringX.h
+/root/wiringX/examples/wiringX.h
+

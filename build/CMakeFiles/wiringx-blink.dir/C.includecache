@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/wiringX.h
+errno.h
+-
+syslog.h
+-
+
+/root/wiringX/examples/blink.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+unistd.h
+-
+wiringX.h
+/root/wiringX/examples/wiringX.h
+
